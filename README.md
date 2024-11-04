@@ -1,6 +1,6 @@
-setelah di clone salin .env dari .env.example
-db=API
-langsung gass migrate
-done
+### setelah di clone salin .env dari .env.example
+### db=API
+### langsung gass migrate
+### done
 
-untuk route ada di api.php
+### untuk route ada di api.php
